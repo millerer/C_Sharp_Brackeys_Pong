@@ -15,3 +15,7 @@ Please note that all graphical and sound assets were created by the staff at Bra
 Run instructions:
 
 Download the contents fomr the 'Build.zip' file into a folder and run the executable file
+
+
+To see the C# Scripts:
+Open Assets -> Scripts
